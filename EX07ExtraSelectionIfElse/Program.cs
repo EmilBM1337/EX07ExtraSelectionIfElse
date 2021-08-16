@@ -12,7 +12,7 @@ namespace EX07ExtraSelectionIfElse
             Console.WriteLine("a) Velkomstbesked");
             Console.WriteLine("b) Udregning af BMI");
             Console.WriteLine("c) Størst af to tal");
-
+            hf
             string a;
             string b;
             string c;
