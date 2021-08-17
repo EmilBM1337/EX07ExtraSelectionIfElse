@@ -37,7 +37,7 @@ namespace EX07ExtraSelectionIfElse
                 Console.WriteLine("");
                 Console.WriteLine("Du har valgt: Udregning af BMI.");
                 Console.WriteLine("");
-                Console.WriteLine("Indtast din højde i centimeter (BRUG KOMMA!), efterfulgt af enter.");
+                Console.WriteLine("Indtast din højde i meter (BRUG KOMMA!), efterfulgt af enter.");
                 double højde = double.Parse(Console.ReadLine());
                 Console.WriteLine("");
                 Console.WriteLine("Indtast din vægt i kg, efterfulgt af enter.");
